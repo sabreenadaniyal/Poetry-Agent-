@@ -40,3 +40,34 @@ An ✨ AI-powered poetry assistant ✨ that generates beautiful, expressive, and
 
 ```bash
 git clone https://github.com
+
+---
+
+📸 Screenshots
+(Add UI or output screenshots here to enhance visual appeal)
+
+---
+
+🤝 Contributing
+All contributions are welcome! 💡✨
+
+---
+
+🙏 Acknowledgments
+▪ 🤖 OpenAI for their language models
+▪ 💬 Chainlit for chat UI(optional)
+▪ 📚 Inspired by poets from Rumi to Maya Angelou
+
+---
+
+🔗 Connect with Me
+🐙 GitHub: https://github.com/sabreenadaniyal
+💼 LinkedIn: Sabreena Zahid
+📧 Email: sabreenazahid04@gmail.com
+
+---
+
+🖋️ “Poetry is when an emotion has found its thought and the thought has found words.” — Robert Frost
+💫 “AI is the pen. Your soul is the story.”
+
+
